@@ -59,7 +59,7 @@ function Experience() {
                             {/* Details Column */}
                             <div className="col text-center text-lg-start">
                                 <div className="bg-light p-4 rounded-4">
-                                    <div className="text-primary fw-bolder mb-2">Oct-2024 -</div>
+                                    <div className="text-primary fw-bolder mb-2">Oct-2024 - (paid)</div>
                                     <div className="small fw-bolder">Web Developer Freelancer</div>
                                     <div className="small text-muted">Your Auto Affiliate</div>
                                     <div className="small text-muted">Remote</div>
