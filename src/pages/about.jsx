@@ -14,7 +14,7 @@ function About() {
                                         <h2 className="display-5 fw-bolder">
                                             <span className="text-gradient d-inline">About Me</span>
                                         </h2>
-                                        <p className="lead fw-light mb-4">'Hey' my name is Krishan.</p>
+                                        <p className="lead fw-light mb-4">'Hey' this is Krishan, I am a Software Developer</p>
                                     </div>
                     </section>
                     <div className="row gx-5 justify-content-center">

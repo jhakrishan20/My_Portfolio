@@ -48,9 +48,6 @@ function Header() {
                             <div className="d-flex justify-content-center mt-5 mt-xxl-0">
                                 <div className="profile bg-gradient-primary-to-secondary">
                                     <img className="profile-img" src={me_img} alt="Profile" />
-                                    <div className="dots-1">
-                                        {/* SVG Dots */}
-                                    </div>
                                 </div>
                             </div>
                         </div>

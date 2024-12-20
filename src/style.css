@@ -11824,3 +11824,84 @@ html {
   font-weight: bold;
   color: #333;
 }
+
+/* responsive header image */
+/* Make the image responsive */
+.profile-img {
+  width: 100%; 
+  height: auto; 
+  object-fit: cover; 
+}
+
+/* Media queries for different screen sizes */
+@media (max-width: 768px) {
+  .profile {
+    max-width: 300px; /* Smaller size for tablets */
+  }
+}
+
+@media (max-width: 576px) {
+  .profile {
+    max-width: 200px; /* Smaller size for mobile devices */
+  }
+}
+
+/* nav popup */
+
+/* Popup navigation container */
+.popup-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9); /* Semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Popup content box */
+.popup-nav-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  width: 80%;
+  max-width: 400px;
+}
+
+/* Close button */
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 24px;
+  color: black;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Navigation list */
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list li {
+  margin: 15px 0;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+.nav-list a:hover {
+  color: #007bff;
+}

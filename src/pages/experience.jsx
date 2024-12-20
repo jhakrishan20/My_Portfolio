@@ -37,9 +37,9 @@ function Experience() {
                             <div className="col-lg-8">
                                 <div>
                                     <ul className="list-unstyled mb-0">
-                                        <li>- Developed a UAV based Tower Monitoring Software v1.0.0 in python.</li>
-                                        <li>- Researched and Developed an optimized path algorithm for Tower inspection.</li>
-                                        <li>- Improved and deployed visitor management system  (VMS) for corporate offices.</li>
+                                        <li>- Developed a UAV based Tower Monitoring Software v1.0.0.</li>
+                                        <li>- Developed an optimized path algorithm for Tower inspection.</li>
+                                        <li>- Improved and deployed visitor management system for corporates.</li>
                                         <li>- Project Spider - Sensors Ecosystem for pollutants/gas detection.</li>
                                         <li>- 3-Dimensional Path generation software to automate UAV missions</li>
                                     </ul>
@@ -69,11 +69,12 @@ function Experience() {
                             <div className="col-lg-8">
                                 <div>
                                     <ul className="list-unstyled mb-0">
-                                        <li>- Integrated an email notification system for various user actions (Forgot Password, Welcome Mail, Free Trial Mail, Feature Updates) using Node-mailer..</li>
-                                        <li>- Developed structured email templates using Handlebars for personalized and automated communication. .</li>
-                                        <li>- Redesigned the Channel List UI and added partner connectors on the Home Page using React and Vite. </li>
-                                        <li>- Implemented UPI Payment Gateway for seamless transactions, with the ability to manage subscriptions and payment updates</li>
-                                        <li>- Improved the Analytics Dashboard using Moment.js and MongoDB to provide detailed insights into user subscriptions and engagement.
+                                        <li>- Integrated an email notification system for various user actions</li>
+                                        <li>- Developed structured email templates using Handlebars.</li>
+                                        <li>- Redesigned the Channel List UI and added partner connectors.</li>
+                                        <li>- Implemented UPI Payment Gateway for seamless transactions.</li>
+                                        <li>- Integrated the ability to manage subscriptions and payment updates</li>
+                                        <li>- Improved the Analytics Dashboard using Moment.js and MongoDB.
                                         </li>
                                     </ul>
                                 </div>
