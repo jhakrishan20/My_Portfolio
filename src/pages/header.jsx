@@ -20,7 +20,7 @@ function Header() {
                                 </h1>
                                 <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
                                     
-                                    <a className="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="https://drive.google.com/drive/folders/18aRs4EUCRwhrAXHLxUS0VJLcZB5Lb4Mj">Resume</a>
+                                    <a className="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="https://drive.google.com/file/d/12SeF7Hk5dpP9gCZh5F5o0xhxA_1HHl0L/view?usp=drive_link">Resume</a>
                                     <a className="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="#projects">Projects</a>
                                 </div>
                     
